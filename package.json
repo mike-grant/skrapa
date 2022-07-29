@@ -1,0 +1,23 @@
+{
+  "name": "skrapa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-grant/skrapa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike-grant/skrapa/issues"
+  },
+  "homepage": "https://github.com/mike-grant/skrapa#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "puppeteer": "^15.5.0"
+  }
+}
