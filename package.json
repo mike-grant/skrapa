@@ -18,6 +18,6 @@
   "homepage": "https://github.com/mike-grant/skrapa#readme",
   "dependencies": {
     "express": "^4.18.1",
-    "puppeteer": "^15.5.0"
+    "puppeteer": "^24.10.2"
   }
 }
